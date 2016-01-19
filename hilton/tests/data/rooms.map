@@ -1,0 +1,18 @@
+<map>
+    <room id="1" name="arboretum" east="2" />
+    <room id="2" name="foyer" west="1" east="3"/>
+    <room id="3" name="dungeon" west="2" south="4" north="5">
+        <object name="rubber chicken"/>
+    </room>
+    <room id="4" name="solarium" north="3">
+        <object name="pulley"/>
+    </room>
+    <room id="5" name="closet" west="6" south="3"/>
+    <room id="6" name="dining room" east="5" north="7">
+        <object name="banjo"/>
+    </room>
+    <room id="7" name="cinema" south="6">
+        <object name="stapler"/>
+    </room>
+</map>
+
